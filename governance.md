@@ -28,5 +28,30 @@ The Project will have a BDFL (Benevolent Dictator for Life), who is currently Ar
 
 The BDFL can appointing his/her successor, but it is expected that the Steering Council would be consulted on this decision. If the BDFL is unable to appoint a successor, the Steering Council will make a suggestion or suggestions to the Main NumFOCUS Board. While the Steering Council and Main NumFOCUS Board will work together closely on the BDFL selection process, the Main NumFOCUS Board will make the final decision.
 
+### Steering Council
 
+The Project will have a Steering Council that is elected to further the overall mission of the The Project. Initially the Council was created by the BDFL, however, future membership rules will determined by the Council itself. The overall role of the Council is to ensure, through working with the BDFL and taking input from the Community, the long-term well-being of the project, both technically, editorially, and as a community.
 
+The Steering Council and its Members play a special role in certain situations. In particular, the Council may:
+
+- Make decisions about the overall scope, vision and direction of The Project.
+- Make decisions about strategic collaborations with other organizations or individuals.
+- Make decisions about new starting a new journal (or incorporating an existing journal) under the Open Journals organization.
+- Make decisions about the Services that are run by The Project and manage those Services for the benefit of the Project and Community.
+- Make decisions when regular community discussion doesn’t produce consensus on an issue in a reasonable time frame.
+
+#### Council membership
+
+To be written by the Council.
+
+#### Subcommittees
+
+Question: Does each journal need its own subcommittee or is this effectively the editorial board of that journal?
+
+#### NumFOCUS Subcommittee
+
+The Council will maintain one narrowly focused subcommittee to manage its interactions with NumFOCUS.
+
+- The NumFOCUS Subcommittee is comprised of 5 persons who manage project funding that comes through NumFOCUS. It is expected that these funds will be spent in a manner that is consistent with the non-profit mission of NumFOCUS and the direction of the Project as determined by the full Council.
+- This Subcommittee shall NOT make decisions about the direction, scope or technical direction of the Project.
+- This Subcommittee will have 5 members, 4 of whom will be current Council Members and 1 of whom will be external to the Steering Council.
