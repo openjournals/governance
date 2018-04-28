@@ -8,6 +8,12 @@ Arfon Smith (@arfon) is the Benevolent Dictator for Life (BDFL).
 
 ## Steering Council
 
+- Chair: Arfon Smith (@arfon)
+- Treasurer
+- Secretary
+- Member
+- Member
+
 Membership TBD
 
 ### NumFOCUS subcommittee
@@ -17,4 +23,3 @@ Membership TBD
 - Kyle Niemeyer (@kyleniemeyer)
 - Karthik Ram (@karthik)
 - Arfon Smith (@arfon)
-
