@@ -40,7 +40,7 @@ The Steering Council and its Members play a special role in certain situations. 
 - Make decisions about the Services that are run by The Project and manage those Services for the benefit of the Project and Community.
 - Make decisions when regular community discussion doesn’t produce consensus on an issue in a reasonable time frame.
 
-#### Council membership
+#### Steering Council membership
 
 To be written by the Council.
 
@@ -54,4 +54,4 @@ The Council will maintain one narrowly focused subcommittee to manage its intera
 
 - The NumFOCUS Subcommittee is comprised of 5 persons who manage project funding that comes through NumFOCUS. It is expected that these funds will be spent in a manner that is consistent with the non-profit mission of NumFOCUS and the direction of the Project as determined by the full Council.
 - This Subcommittee shall NOT make decisions about the direction, scope or technical direction of the Project.
-- This Subcommittee will have 5 members, 4 of whom will be current Council Members and 1 of whom will be external to the Steering Council.
+- This Subcommittee will have 5 members, 4 of whom will be current Steering Council members and 1 of whom will be external to the Steering Council.
