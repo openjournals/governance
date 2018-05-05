@@ -8,7 +8,7 @@ The software developed and maintained by The Project is released under the MIT (
 
 The services run by The Project consist of public websites and web services that are hosted under the `theoj.org` and `briefideas.org` domains, and include the Journal of Open Source Software (http://joss.theoj.org), the Journal of Open Source Education (http://jose.theoj.org), the Journal of Brief Ideas (http://beta.briefideas.org), and the Open Journal of Astrophysics (http://astro.theoj.org).
 
-The Project is formally affiliated with the 501(c)(3) NumFOCUS Foundation (http://numfocus.org), which serves as its fiscal sponsor, may hold project trademarks and other intellectual property, helps manage project donations, and acts as a parent legal entity. In addition, currently one of our journals, the Journal of Open Source Software, is formally affiliated with the Open Source Initiative (https://opensource.org/affiliates/list). NumFOCUS is the only legal entity that has a formal relationship with The Project.
+The Project is formally affiliated with the 501(c)(3) NumFOCUS Foundation (http://numfocus.org), which serves as its fiscal sponsor, may hold project trademarks and other intellectual property, helps manage project donations, and acts as a parent legal entity. In addition, currently one of our journals, the Journal of Open Source Software, is an affiliate member of the Open Source Initiative (https://opensource.org/affiliates/list). NumFOCUS is the only legal entity that has a formal relationship with The Project.
 
 ## Governance
 
