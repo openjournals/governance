@@ -1,4 +1,4 @@
-# Steering Council
+# Steering Committee
 
 Names are followed by GitHub usernames.
 
@@ -6,20 +6,12 @@ Names are followed by GitHub usernames.
 
 Arfon Smith (@arfon) is the Benevolent Dictator for Life (BDFL).
 
-## Steering Council
+## Steering Committee
 
 - Chair: Arfon Smith (@arfon)
-- Treasurer
-- Secretary
-- Member
-- Member
-
-Membership TBD
-
-### NumFOCUS subcommittee
-
-- Lorena Barba (@labarba)
-- Kevin Moerman (@Kevin-Mattheus-Moerman)
-- Kyle Niemeyer (@kyleniemeyer)
-- Karthik Ram (@karthik)
-- Arfon Smith (@arfon)
+- Member: Lorena Barba (@labarba)
+- Member: Katy Huff (@katyhuff)
+- Member: Dan Katz (@danielskatz)
+- Member: Karthik Ram (@karthik)
+- Member: Kevin Moerman (@Kevin-Mattheus-Moerman)
+- Member: Kyle Niemeyer (@kyleniemeyer)
