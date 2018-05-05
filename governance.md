@@ -4,7 +4,7 @@
 
 Open Journals (The Project) is a collection of open source software projects affiliated with the 501c3 [NumFOCUS Foundation](https://www.numfocus.org). The goal of The Project is to develop open source software and deploy open access academic publishing services.
 
-The software developed and maintained by The Project is released under the MIT (or similar) open source license, developed openly, and hosted in public GitHub repositories under the [Open Journals GitHub organization](https://github.com/openjournals). Examples of Project Software include the [JOSS web application](https://github.com/openjournals/joss), the [Whedon RubyGem](https://github.com/openjournals/whedon), the [Whedon bot](https://github.com/openjournals/whedon-api), and more.
+The software developed and maintained by The Project is released under the MIT (or similarly permissive) open source license, developed openly, and hosted in public GitHub repositories under the [Open Journals GitHub organization](https://github.com/openjournals). Examples of Project Software include the [JOSS web application](https://github.com/openjournals/joss), the [Whedon RubyGem](https://github.com/openjournals/whedon), the [Whedon bot](https://github.com/openjournals/whedon-api), and more.
 
 The services run by The Project consist of public websites and web services that are hosted under the `theoj.org` and `briefideas.org` domains, and include the Journal of Open Source Software (http://joss.theoj.org), the Journal of Open Source Education (http://jose.theoj.org), the Journal of Brief Ideas (http://beta.briefideas.org), and the Open Journal of Astrophysics (http://astro.theoj.org).
 
@@ -48,5 +48,13 @@ To be written by the Council.
 ### Subcommittees
 
 Subcommittees may be established by the Steering Council to assist in managing the The Project. 
+
+### Editorial policies and processes
+
+Individual journals are responsible for their own editorial process, including their editorial board composition. However, by being an Open Journals publication, each journal must:
+
+- Be open access 
+- Have an open review process
+- Use the Open Journals open source toolchain
 
 
