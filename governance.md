@@ -2,7 +2,7 @@
 
 ## The Project
 
-Open Journals (The Project) develops and deploys open source software for open access publishing and enables publication credit for software and other research and educational products. It is a fiscally sponsored project of the 501(c)(3) [NumFOCUS Foundation](https://www.numfocus.org).
+Open Journals (The Project) develops and deploys open source software for open access publishing and enables publication credit for software and other research and educational products. In addition it coordinates the operations of the Open Journals publications. It is a fiscally sponsored project of the 501(c)(3) [NumFOCUS Foundation](https://www.numfocus.org).
 
 The software developed and maintained by The Project is released under the MIT (or similarly permissive) open source license, developed openly, and hosted in public GitHub repositories under the [Open Journals GitHub organization](https://github.com/openjournals). Examples of Project Software include the [JOSS web application](https://github.com/openjournals/joss), the [Whedon RubyGem](https://github.com/openjournals/whedon), the [Whedon bot](https://github.com/openjournals/whedon-api), and more.
 
