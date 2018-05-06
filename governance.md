@@ -30,7 +30,7 @@ The BDFL appoints his/her successor, and it is expected that the Steering Counci
 
 ### Steering Council
 
-The Project will have a Steering Council that is elected to further the overall mission of the The Project. The initial Steering Council was created by the BDFL, however, future membership rules will determined by the Steering Council itself. The overall role of the Steering Council is to ensure, through working with the BDFL and taking input from the community, the long-term well-being of the project, both technically, editorially, and as a community.
+The Project has a Steering Council that is elected to further the overall mission of the The Project. The initial Steering Council was created by the BDFL, however, future membership rules will determined by the Steering Council itself. The overall role of the Steering Council is to ensure, through working with the BDFL and taking input from the community, the long-term well-being of the project, both technically, editorially, and as a community.
 
 The Steering Council and its Members play a special role in certain situations. In particular, the Council may:
 
