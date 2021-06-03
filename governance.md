@@ -51,10 +51,26 @@ Subcommittees may be established by the Steering Council to assist in managing t
 
 ### Editorial policies and processes
 
-Individual journals are responsible for their own editorial process, including their editorial board composition. However, by being an Open Journals publication, each journal must:
+Individual journals are responsible for their own editorial process, including their editorial board composition. However, by being an Open Journals publication, each journal:
 
-- Be open access 
-- Have an open review process
-- Use the Open Journals open source toolchain
+**Must**
+
+- Be open access ([Diamond/Platinum or Gold](https://en.wikipedia.org/wiki/Open_access#Definitions)).
+- License journal content (e.g., articles) under a [CC-BY license](https://creativecommons.org/licenses/by/4.0/). 
+- Follow an open peer review process.
+- Publish a cost model (e.g., https://joss.theoj.org/about#costs).
+- Have a code of conduct (e.g., [Contributor Covenant](https://github.com/openjournals/joss/blob/master/CODE_OF_CONDUCT.md)) and a documented process for dealing with infringements. 
+- Nominate a member of their editorial team to join the Open Journals steering committee.
+
+**Ideally should also**
+
+- Use the [Open Journals](https://github.com/openjournals) open source toolchain.
+- Be aligned with the [NumFOCUS mission](https://numfocus.org/community/mission)<sup>*</sup>
+
+<sup>*</sup> Note this is especially important if the journal would ever want to use NumFOCUS as a fiscal sponsor/host.
+
+New journals should also be prepared to contribute to the running costs of the Open Journals (e.g., Crossref and Portico membership. DOI registration fees. Web hosting. Infrastructure maintenance.)
+
+
 
 
