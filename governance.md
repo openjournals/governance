@@ -60,11 +60,11 @@ Individual journals are responsible for their own editorial process, including t
 - Follow an open peer review process.
 - Publish a cost model (e.g., https://joss.theoj.org/about#costs).
 - Have a code of conduct (e.g., [Contributor Covenant](https://github.com/openjournals/joss/blob/master/CODE_OF_CONDUCT.md)) and a documented process for dealing with infringements. 
+- Nominate a member of their editorial team to join the Open Journals steering committee.
 
 **Ideally should also**
 
 - Use the [Open Journals](https://github.com/openjournals) open source toolchain.
-- Nominate a member of their editorial team to join the Open Journals steering committee.
 - Be aligned with the [NumFOCUS mission](https://numfocus.org/community/mission)<sup>*</sup>
 
 <sup>*</sup> Note this is especially important if the journal would ever want to use NumFOCUS as a fiscal sponsor/host.
